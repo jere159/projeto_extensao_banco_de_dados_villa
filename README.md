@@ -5,5 +5,5 @@ Este projeto foi desenvolvido como parte de uma atividade de extensão acadêmic
 ## Tecnologias Utilizadas:
 - Python
 - PostgreSQL
-- Tkinter (para a interface gráfica)
-- Psycopg2 (para conexão com o banco de dados)
+- Tkinter 
+- Psycopg2 
