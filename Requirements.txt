@@ -1,0 +1,5 @@
+flask==2.3.3          # Para criar o backend web do sistema
+psycopg2==2.9.7       # Para conectar o Python com o PostgreSQL
+SQLAlchemy==2.0.20    # ORM para trabalhar com o banco de dados de forma mais simples
+flask-sqlalchemy==3.0.5  # Integração do Flask com SQLAlchemy
+gunicorn==21.2.0      # Para deployment em servidores de produção
